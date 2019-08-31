@@ -1,1 +1,3 @@
 syso("hello world ...");
+syso("test 2");
+syso("test amend");
